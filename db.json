@@ -41,7 +41,7 @@
       "location": "Somewhere",
       "date": "July 22, 2022",
       "time": "11:00",
-      "petsAllowed": True,
+      "petsAllowed": true,
       "organizer": "Patty"
     }
   ]
